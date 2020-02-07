@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chosuethu.162cm.com/sitemap.xml
